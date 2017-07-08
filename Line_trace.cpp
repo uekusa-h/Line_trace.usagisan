@@ -147,7 +147,7 @@ private:
 				N = N + en;
 			}
 			K = double(K / N);
-			int slope = -0.32*K*57.3 + p + 300;//データを3桁に揃える
+			int slope = -0.32*K*57.3 + p + 300;//データを3桁に揃える 0.32は係数
 			p = -0.05*K*57.3;
 			//送信部分
 			ostringstream ssf;
