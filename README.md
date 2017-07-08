@@ -1,2 +1,3 @@
-# Lin_trace
-USBカメラによるLinetraceするテスト
+# Line_trace
+USBカメラを用いてライントレースをする
+出来がよろしくないので、修正点があれば是非！！
